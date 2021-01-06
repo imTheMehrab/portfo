@@ -10,6 +10,7 @@ body{
     background-color: rgb(216, 208, 208);
     background: url("../img/others/backcover.jpg");
     color: white;
+    background-size: 90%;
 
 }
 nav ul{
@@ -142,8 +143,9 @@ p{
 }
 
 #text1 {
-    color: grey;
+    color: rgb(238, 229, 229);
     font-size: 25px;
+    font-weight: 20px;
 }
 
 #text2 {
